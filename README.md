@@ -1,5 +1,8 @@
 ### Hi there 👋
 ## I'm Rizwan Rashid 👋
+<h3 align="center">A passionate front end developer and content writer from Bangladesh.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rewon123" alt="rewon123" /> </p>
 
 - 🌱 I’m currently learning ... everything 🤣
 - ❤️ Technology Is My Love 😍
